@@ -9,7 +9,7 @@ class Header extends React.Component {
     };
     return (
       <div>
-        <h1>{pages[this.props.location.pathname]}</h1>
+        <h1>{pages[this.props.pathname]}</h1>
         <IndexLink to='/'>Home</IndexLink>
         <Link to='/about'>About</Link>
       </div>

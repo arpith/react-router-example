@@ -5,7 +5,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Header />
+        <Header pathname={this.props.location.pathname}/>
         {this.props.children}
       </div>
     );

@@ -5,7 +5,7 @@ class Header extends React.Component {
   render() {
     let pages = {
       '/': 'Home Page',
-      'about': 'About Page'
+      '/about': 'About Page'
     };
     return (
       <div>

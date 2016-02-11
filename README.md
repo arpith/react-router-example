@@ -6,4 +6,4 @@ This is the code for the article I wrote on medium: https://medium.com/@arpith/u
 2. `cd react-router-example`
 3. `npm install && npm start`
 
-Head over to <a href="localhost:8080">localhost:8080</a> to see it in action.
+Head over to [localhost:8080](http://localhost:8080) to see it in action.
